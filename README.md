@@ -9,3 +9,5 @@ Já o arquivo dado2.mat contém dados que não são linearmente separáveis e, p
 ## Parte 2 - Análise de Componentes Principais (PCA)
 
 Uma das aplicações mais interessantes e surpreendentes de análise de componentes principais é no reconhecimento facial (eigenfaces). Sendo assim, o arquivo dado3.mat  possuirá, no atributo X, matrizes de 32 x 32, convertidas em um vetores de 1024 componentes, em cada linha, as quais representam imagens de faces em tons de cinza. Devemos buscar as eigenfaces e entender qual o impacto ao utilizar apenas algumas deles para geração de uma imagem.
+
+Resultados do projeto estão no arquivo "SVM e PCA.pdf"
